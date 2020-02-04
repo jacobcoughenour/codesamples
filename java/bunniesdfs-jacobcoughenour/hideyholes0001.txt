@@ -1,0 +1,27 @@
+# Sample input file for Bunny Graph
+# Format described in corresponding specs
+# V [B] W1 C1 w2 C2 W3 C3...
+# C will always be > 0 and less than 50
+# B is the bunny name and will never be more than a single word
+A B 2 K 3
+B B 8 D 1 S 4
+C A 1 B 1 H 10
+*D Larry N 37 R 12 S 2 J 3
+E F 1 B 7 A 2 C 17
+F M 2 N 1
+G I 1
+H J 4
+*I Crawford H 9
+*J Fortuna K 9 L 1 O 2
+K D 7 S 21
+*L Naruto E 8
+M N 5 P 12 Q 2
+N
+O R 1 S 2 F 3
+P S 1 A 1
+*Q JimmyChanga R 2 D 2
+R P 5
+S A 4 G 12 L 7
+*T Calliope
+U A 1 H 42
+*V Collywobbles U 3
